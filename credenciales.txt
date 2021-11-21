@@ -1,0 +1,8 @@
+
+git init
+git config --list
+git config --global user.name "urbano4725"
+git config --global user.email efurbano@misena.edu.co
+git config --global user.password "psdwww"
+git config --global credential.helper manager
+
